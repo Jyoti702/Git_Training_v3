@@ -1,0 +1,2 @@
+text in samplefile 1
+text in samplefile 2
