@@ -1,1 +1,2 @@
 text in samplefile 2
+Testing git revert 2

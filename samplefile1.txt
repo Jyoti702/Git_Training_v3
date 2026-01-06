@@ -1,2 +1,6 @@
 text in samplefile 1
+
 'There are many different kinds of animals that live in China. Tigers and leopards are animals that live in China's forests in the north.
+
+Testing git revert commit 1
+
